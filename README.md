@@ -1,13 +1,20 @@
-## expect(foundations(tests)).toBe(awesome)
+## Library
 
-This is a presentation and exercise on why and how to test.
+- jest - runner, assertion
 
-It's for beginners. Aren't we all beginners?
+## Files
 
-Change to the numbered branch to do:
+- *.spec.js
 
-1. The "why" and "when" of testing
-2. Testing demo
-3. Try out testing
+## Anatomy
 
-This is Node.js JavaScript.
+- describe - suite
+- expect - assert
+- import - sut
+- it/test - spec
+
+## Scripts
+
+- npm-scripts
+- test
+- test:watch
